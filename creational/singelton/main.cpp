@@ -4,7 +4,7 @@ class Singelton
 {
 protected:
     //Экземпляр класса
-    static Singelton* singelton;
+    static inline Singelton* singelton = nullptr;
     //Блокировка доступа к конструктору
     Singelton() {}
 public:
