@@ -16,7 +16,9 @@
 
 ### **4)Примеры**
 
+#### Примеры на C++
+Пример находится в этой же поддиректории в файле main.cpp
+
 #### ORM система
 Данная система предполагает последовательное создание SQL запроса.
 https://github.com/Tyutnev/framework/blob/master/framework/components/db/QueryBuilder.php
-
